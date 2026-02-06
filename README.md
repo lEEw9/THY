@@ -97,9 +97,9 @@
 | 线路 | 地址 | 建议 |
 |---|---|---|
 | 备用 1 | `https://dh.69mb.me/` | 备用入口（壹） |
-| 备用 2 | `[https://backup2.example.com](https://fby.69mb.me/)` | 备用入口（待替换） |
-| 备用 3 | `[https://backup3.example.com](https://tz.69mb.me/)` | 备用入口（待替换） |
-| 备用 4 | `[https://backup4.example.com](https://thy.69mb.me/)` | 备用入口（待替换） |
+| 备用 2 | `https://fby.69mb.me/` | 备用入口（贰） |
+| 备用 3 | `https://tz.69mb.me/` | 备用入口（叄） |
+| 备用 4 | `https://thy.69mb.me/` | 备用入口（肆） |
 
 > ✅ 你把上面 4 个 `backup*.example.com` 换成真实域名即可。
 
@@ -126,10 +126,10 @@
 
 你也可以把备用域名放到这里，页面更干净：
 
-- 备用 1：`[https://...](https://dh.69mb.me/)`
-- 备用 2：`[https://...](https://fby.69mb.me/)`
-- 备用 3：`[https://...](https://tz.69mb.me/)`
-- 备用 4：`[https://...](https://thy.69mb.me/)`
+- 备用 1：`https://dh.69mb.me/`
+- 备用 2：`https://fby.69mb.me/`
+- 备用 3：`https://tz.69mb.me/`
+- 备用 4：`https://thy.69mb.me/`
 
 </details>
 
