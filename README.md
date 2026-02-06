@@ -77,16 +77,16 @@
 
 <div align="center">
 
-<a href="https://backup1.example.com" target="_blank">
+<a href="[https://backup1.example.com](https://dh.69mb.me/)" target="_blank">
   <img src="https://img.shields.io/badge/备用%201-访问-ff2bd6?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
 </a>
-<a href="https://backup2.example.com" target="_blank">
+<a href="[https://backup2.example.com](https://fby.69mb.me/)" target="_blank">
   <img src="https://img.shields.io/badge/备用%202-访问-c084fc?style=for-the-badge&logo=brave&logoColor=white">
 </a>
-<a href="https://backup3.example.com" target="_blank">
+<a href="[https://backup3.example.com](https://tz.69mb.me/)" target="_blank">
   <img src="https://img.shields.io/badge/备用%203-访问-60a5fa?style=for-the-badge&logo=safari&logoColor=white">
 </a>
-<a href="https://backup4.example.com" target="_blank">
+<a href="[https://backup4.example.com](https://thy.69mb.me/)" target="_blank">
   <img src="https://img.shields.io/badge/备用%204-访问-34d399?style=for-the-badge&logo=opera&logoColor=white">
 </a>
 
@@ -96,10 +96,10 @@
 
 | 线路 | 地址 | 建议 |
 |---|---|---|
-| 备用 1 | `https://backup1.example.com` | 备用入口（待替换） |
-| 备用 2 | `https://backup2.example.com` | 备用入口（待替换） |
-| 备用 3 | `https://backup3.example.com` | 备用入口（待替换） |
-| 备用 4 | `https://backup4.example.com` | 备用入口（待替换） |
+| 备用 1 | `[https://backup1.example.com](https://dh.69mb.me/)` | 备用入口（待替换） |
+| 备用 2 | `[https://backup2.example.com](https://fby.69mb.me/)` | 备用入口（待替换） |
+| 备用 3 | `[https://backup3.example.com](https://tz.69mb.me/)` | 备用入口（待替换） |
+| 备用 4 | `[https://backup4.example.com](https://thy.69mb.me/)` | 备用入口（待替换） |
 
 > ✅ 你把上面 4 个 `backup*.example.com` 换成真实域名即可。
 
@@ -126,10 +126,10 @@
 
 你也可以把备用域名放到这里，页面更干净：
 
-- 备用 1：`https://...`
-- 备用 2：`https://...`
-- 备用 3：`https://...`
-- 备用 4：`https://...`
+- 备用 1：`[https://...](https://dh.69mb.me/)`
+- 备用 2：`[https://...](https://fby.69mb.me/)`
+- 备用 3：`[https://...](https://tz.69mb.me/)`
+- 备用 4：`[https://...](https://thy.69mb.me/)`
 
 </details>
 
