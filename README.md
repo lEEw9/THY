@@ -96,7 +96,7 @@
 
 | 线路 | 地址 | 建议 |
 |---|---|---|
-| 备用 1 | `[https://backup1.example.com](https://dh.69mb.me/)` | 备用入口（待替换） |
+| 备用 1 | `https://dh.69mb.me/` | 备用入口（壹） |
 | 备用 2 | `[https://backup2.example.com](https://fby.69mb.me/)` | 备用入口（待替换） |
 | 备用 3 | `[https://backup3.example.com](https://tz.69mb.me/)` | 备用入口（待替换） |
 | 备用 4 | `[https://backup4.example.com](https://thy.69mb.me/)` | 备用入口（待替换） |
