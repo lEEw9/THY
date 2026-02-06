@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 桃花源 · 地址发布说明（紫粉霓虹 · 玻璃拟态）
+# 🌸 桃花源导航 · 地址发布说明
 
 <p>
   <a href="https://nav.thy.sex/" target="_blank">
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-💜 **紫粉霓虹 · 玻璃拟态** ｜⭐ 收藏本页，永不迷路
+💜 **｜⭐ 收藏本页，永不迷路
 
 </div>
 
