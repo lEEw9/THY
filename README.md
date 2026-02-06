@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<a href="[https://backup1.example.com](https://dh.69mb.me/)" target="_blank">
+<a href="https://dh.69mb.me/" target="_blank">
   <img src="https://img.shields.io/badge/备用%201-访问-ff2bd6?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
 </a>
 <a href="[https://backup2.example.com](https://fby.69mb.me/)" target="_blank">
