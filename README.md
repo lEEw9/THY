@@ -101,7 +101,7 @@
 | 备用 3 | `https://tz.69mb.me/` | 备用入口（叄） |
 | 备用 4 | `https://thy.69mb.me/` | 备用入口（肆） |
 
-> ✅ 你把上面 4 个 `backup*.example.com` 换成真实域名即可。
+> ✅ 失效请联系：yl888yh@gmail.com
 
 ---
 
@@ -121,17 +121,7 @@
 
 ---
 
-<details>
-<summary><b>📌 进阶：把备用入口折叠（点开更清爽）</b></summary>
 
-你也可以把备用域名放到这里，页面更干净：
-
-- 备用 1：`https://dh.69mb.me/`
-- 备用 2：`https://fby.69mb.me/`
-- 备用 3：`https://tz.69mb.me/`
-- 备用 4：`https://thy.69mb.me/`
-
-</details>
 
 <div align="center">
 
