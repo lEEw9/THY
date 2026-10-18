@@ -1,70 +1,37 @@
 <div align="center">
 
-<a href="https://nav.thy.sex/">
-  <img src="https://nav.thy.sex/assets/logo.20261016.webp" width="360" alt="桃花源导航">
-</a>
+<a href="https://nav.thy.sex/"><img src="assets/logo.webp" width="360" alt="桃花源导航"></a>
 
-# 桃花源导航 · 地址发布
+### 地 址 发 布
 
-**收藏这一页，随时找到桃花源。**
+<sub>收藏这一页，随时找到桃花源。</sub>
 
-永久域名 · 主入口 · 备用线路
+<br><br>
 
-<a href="https://nav.thy.sex/"><img src="https://img.shields.io/badge/永久域名-nav.thy.sex-6c6cff?style=for-the-badge" alt="永久域名 nav.thy.sex"></a>
-<a href="https://69mb.me/"><img src="https://img.shields.io/badge/主入口-69mb.me-d875ad?style=for-the-badge" alt="主入口 69mb.me"></a>
+<a href="https://nav.thy.sex/"><img src="assets/permanent.svg" width="600" alt="永久域名 · nav.thy.sex"></a>
 
-<sub>电脑按 Ctrl + D 收藏本页；手机可在浏览器菜单中添加书签。</sub>
+<a href="https://69mb.me/"><img src="assets/main.svg" width="296" alt="主入口 · 69mb.me"></a>
+<a href="https://thy.5278.workers.dev/"><img src="assets/cloudflare.svg" width="296" alt="备用发布页 · thy.5278.workers.dev"></a>
 
-</div>
+<br>
 
----
+**备 用 线 路**
 
-## 🌸 从这里出发
+<a href="https://dh.69mb.me/"><img src="assets/backup-1.svg" width="296" alt="备用线路 01 · dh.69mb.me"></a>
+<a href="https://fby.69mb.me/"><img src="assets/backup-2.svg" width="296" alt="备用线路 02 · fby.69mb.me"></a>
 
-<table>
-  <tr>
-    <th align="left">永久域名</th>
-    <th align="left">主入口</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://nav.thy.sex/"><strong>nav.thy.sex ↗</strong></a><br>
-      <sub>记住这个地址，方便下次访问</sub>
-    </td>
-    <td>
-      <a href="https://69mb.me/"><strong>69mb.me ↗</strong></a><br>
-      <sub>点击进入桃花源导航</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://tz.69mb.me/"><img src="assets/backup-3.svg" width="296" alt="备用线路 03 · tz.69mb.me"></a>
+<a href="https://thy.69mb.me/"><img src="assets/backup-4.svg" width="296" alt="备用线路 04 · thy.69mb.me"></a>
 
-> **备用发布页**　[thy.5278.workers.dev ↗](https://thy.5278.workers.dev/)  
-> 若当前入口无法访问，可尝试下方备用线路。
+<br>
 
-## 🪻 备用线路
+<sub>电脑按 <b>Ctrl + D</b> 收藏 · 手机在浏览器菜单中添加书签</sub><br>
+<sub>访问异常时，请尝试备用线路或切换网络。</sub>
 
-| 线路 | 访问地址 |
-| :--- | :--- |
-| 备用一 | [dh.69mb.me ↗](https://dh.69mb.me/) |
-| 备用二 | [fby.69mb.me ↗](https://fby.69mb.me/) |
-| 备用三 | [tz.69mb.me ↗](https://tz.69mb.me/) |
-| 备用四 | [thy.69mb.me ↗](https://thy.69mb.me/) |
+<br>
 
-<sub>以上保留现有入口；是否可访问，以你的实际网络环境为准。</sub>
+<a href="mailto:yl888yh@gmail.com">反馈失效</a> · <a href="https://github.com/lEEw9/THY">收藏发布页</a>
 
-## 💌 收藏与联系
-
-- **保存入口**：收藏[本仓库首页](https://github.com/lEEw9/THY)，后续地址变动会在这里更新。
-- **访问异常**：尝试其他线路，或切换网络、更换浏览器后重试。
-- **认准地址**：请核对域名，避免误入仿冒页面。
-- **反馈失效**：[yl888yh@gmail.com](mailto:yl888yh@gmail.com)
-
----
-
-<div align="center">
-
-**桃花源导航** · 每次出发，都有方向。
-
-<sub>thy.sex · 收藏本页，下次见。</sub>
+<sub>桃花源导航 · thy.sex</sub>
 
 </div>
