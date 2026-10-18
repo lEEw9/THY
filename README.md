@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://nav.thy.sex/">
-  <img src="assets/logo.webp" width="360" alt="桃花源导航">
+  <img src="https://nav.thy.sex/assets/logo.20261016.webp" width="360" alt="桃花源导航">
 </a>
 
 # 桃花源导航 · 地址发布
