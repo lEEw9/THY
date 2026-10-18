@@ -1,131 +1,70 @@
 <div align="center">
 
-# 🌸 桃花源导航 · 地址发布说明
+<a href="https://nav.thy.sex/">
+  <img src="assets/logo.webp" width="360" alt="桃花源导航">
+</a>
 
-<p>
-  <a href="https://nav.thy.sex/" target="_blank">
-    <img src="https://img.shields.io/badge/永久域名-nav.thy.sex-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://69mb.me/" target="_blank">
-    <img src="https://img.shields.io/badge/主入口-69mb.me-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="https://thy.5278.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/CF发布页-Workers-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white">
-  </a>
-</p>
+# 桃花源导航 · 地址发布
 
-<p>
-  <b>✅ 建议收藏本页（Ctrl + D / 手机：添加到主屏幕）</b><br/>
-  若遇访问异常，请切换网络或使用备用入口。
-</p>
+**收藏这一页，随时找到桃花源。**
+
+永久域名 · 主入口 · 备用线路
+
+<a href="https://nav.thy.sex/"><img src="https://img.shields.io/badge/永久域名-nav.thy.sex-6c6cff?style=for-the-badge" alt="永久域名 nav.thy.sex"></a>
+<a href="https://69mb.me/"><img src="https://img.shields.io/badge/主入口-69mb.me-d875ad?style=for-the-badge" alt="主入口 69mb.me"></a>
+
+<sub>电脑按 Ctrl + D 收藏本页；手机可在浏览器菜单中添加书签。</sub>
 
 </div>
 
 ---
 
-## ✨ 主入口（推荐）
+## 🌸 从这里出发
+
+<table>
+  <tr>
+    <th align="left">永久域名</th>
+    <th align="left">主入口</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://nav.thy.sex/"><strong>nav.thy.sex ↗</strong></a><br>
+      <sub>记住这个地址，方便下次访问</sub>
+    </td>
+    <td>
+      <a href="https://69mb.me/"><strong>69mb.me ↗</strong></a><br>
+      <sub>点击进入桃花源导航</sub>
+    </td>
+  </tr>
+</table>
+
+> **备用发布页**　[thy.5278.workers.dev ↗](https://thy.5278.workers.dev/)  
+> 若当前入口无法访问，可尝试下方备用线路。
+
+## 🪻 备用线路
+
+| 线路 | 访问地址 |
+| :--- | :--- |
+| 备用一 | [dh.69mb.me ↗](https://dh.69mb.me/) |
+| 备用二 | [fby.69mb.me ↗](https://fby.69mb.me/) |
+| 备用三 | [tz.69mb.me ↗](https://tz.69mb.me/) |
+| 备用四 | [thy.69mb.me ↗](https://thy.69mb.me/) |
+
+<sub>以上保留现有入口；是否可访问，以你的实际网络环境为准。</sub>
+
+## 💌 收藏与联系
+
+- **保存入口**：收藏[本仓库首页](https://github.com/lEEw9/THY)，后续地址变动会在这里更新。
+- **访问异常**：尝试其他线路，或切换网络、更换浏览器后重试。
+- **认准地址**：请核对域名，避免误入仿冒页面。
+- **反馈失效**：[yl888yh@gmail.com](mailto:yl888yh@gmail.com)
+
+---
 
 <div align="center">
 
-<a href="https://69mb.me/" target="_blank">
-  <img src="https://img.shields.io/badge/ENTER-点击进入-ff4fd8?style=for-the-badge&logo=rocket&logoColor=white">
-</a>
+**桃花源导航** · 每次出发，都有方向。
 
-<br/><br/>
-
-**主入口：** `https://69mb.me/`
+<sub>thy.sex · 收藏本页，下次见。</sub>
 
 </div>
-
----
-
-## 🧿 永久域名（长期有效）
-
-<div align="center">
-
-<a href="https://nav.thy.sex/" target="_blank">
-  <img src="https://img.shields.io/badge/PERMANENT-永久域名-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
-
-<br/><br/>
-
-**永久域名：** `https://nav.thy.sex/`
-
-</div>
-
----
-
-## ⚡ CF 发布页（备用入口之一）
-
-<div align="center">
-
-<a href="https://thy.5278.workers.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/CLOUDFLARE-发布页-00bcd4?style=for-the-badge&logo=cloudflare&logoColor=white">
-</a>
-
-<br/><br/>
-
-**CF 发布页：** `https://thy.5278.workers.dev/`
-
-</div>
-
----
-
-## 🔁 备用入口（共 4 个）
-
-> 任意一个能打开即可 ✅（建议都收藏）
-
-<div align="center">
-
-<a href="https://dh.69mb.me/" target="_blank">
-  <img src="https://img.shields.io/badge/备用%201-访问-ff2bd6?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-</a>
-<a href="[https://backup2.example.com](https://fby.69mb.me/)" target="_blank">
-  <img src="https://img.shields.io/badge/备用%202-访问-c084fc?style=for-the-badge&logo=brave&logoColor=white">
-</a>
-<a href="[https://backup3.example.com](https://tz.69mb.me/)" target="_blank">
-  <img src="https://img.shields.io/badge/备用%203-访问-60a5fa?style=for-the-badge&logo=safari&logoColor=white">
-</a>
-<a href="[https://backup4.example.com](https://thy.69mb.me/)" target="_blank">
-  <img src="https://img.shields.io/badge/备用%204-访问-34d399?style=for-the-badge&logo=opera&logoColor=white">
-</a>
-
-</div>
-
-<br/>
-
-| 线路 | 地址 | 建议 |
-|---|---|---|
-| 备用 1 | `https://dh.69mb.me/` | 备用入口（壹） |
-| 备用 2 | `https://fby.69mb.me/` | 备用入口（贰） |
-| 备用 3 | `https://tz.69mb.me/` | 备用入口（叄） |
-| 备用 4 | `https://thy.69mb.me/` | 备用入口（肆） |
-
-> ✅ 失效请联系：yl888yh@gmail.com
-
----
-
-## 🧊 使用说明
-
-- **打不开**：先切换网络（移动/联通/电信/海外）或更换浏览器  
-- **加载慢**：优先用 CF 发布页或更换备用入口  
-- **长期保存**：以本 GitHub README 为最终入口（更新最快）
-
----
-
-## 🛡️ 安全提示
-
-- 请勿在公开平台传播本页链接（避免失效）  
-- 如发现仿冒页面，以本页地址为准  
-- 建议只从本页进入，避免被引流/跳转污染  
-
----
-
-
-
-<div align="center">
-
-💜 thy.sex｜⭐ 收藏本页，永不迷路
-
-</div>
-
